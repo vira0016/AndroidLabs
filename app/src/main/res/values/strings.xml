@@ -2,5 +2,12 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\'m a button </string>
+    <string name="Password"> password </string>
+    <string name="dialog_message"> dialog message </string>
+    <string name="dialog_title"> dialog title </string>
+    <string name="ok"> ok </string>
+    <string name="res_msg"> res message </string>
+    <string name="cancel"> cancle </string>
+
 
 </resources>
